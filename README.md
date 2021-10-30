@@ -1,4 +1,4 @@
-# 121_enerjisa_bootcamp_1_homework-ahmetkarayel-  
+# 121_enerjisa_bootcamp_2_homework-ahmetkarayel-  
 
 Patika.dev & Enerjisa Veri Bilimi ve Analitiği Bootcamp'i kapsamında verilen 2. ödevin cevaplarıdır.
 
